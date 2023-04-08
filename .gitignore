@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/Tasklist/task/build/
+/Tasklist/task/build/classes/kotlin/build/
+/Tasklist/task/out/
+/Tasklist/task/out/production/classes/
